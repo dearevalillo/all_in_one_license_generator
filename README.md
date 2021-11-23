@@ -10,7 +10,7 @@ Requirements
 
 request, json, getpass, time, sys, shutil, BeautifulSoup
 
-NOTE: In this case is not relevant, because we convert the .py files and libraries to exe.
+NOTE: In this case is not relevant, because we converted the .py files and libraries to exe.
 
 
 ScreenShot
