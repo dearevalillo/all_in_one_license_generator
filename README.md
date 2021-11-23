@@ -13,7 +13,7 @@ request, json, getpass, time, sys, shutil, BeautifulSoup
 NOTE: In this case is not relevant, because we convert the .py files and libraries to exe.
 
 
-ScreenShoot
+ScreenShot
 --------------
 ![main](https://github.com/dearevalillo/all_in_one_license_generator/blob/master/main.PNG)
 
